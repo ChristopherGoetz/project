@@ -1,2 +1,2 @@
-# project
+# Less Generic Titler
 hello!
